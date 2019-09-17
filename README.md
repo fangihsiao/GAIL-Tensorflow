@@ -1,5 +1,5 @@
 # GAIL
-Simple GAIL implementation using Tensorflow
+GAIL implementation using Tensorflow
 
 # Reference
 Jonathan Ho and Stefano Ermon. Generative adversarial imitation learning [link](https://arxiv.org/abs/1606.03476)
